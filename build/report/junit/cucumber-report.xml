@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="6" tests="6" time="0">
+    <testcase classname="Hotel Booking In Adactin Application" name="Adac" time="0">
+        <skipped><![CDATA[Given user Launch The Application...........................................undefined
+When user Enter The "sivaprakashdivya" In Username Field....................undefined
+And user Enter The "shivanya" In password Field.............................undefined
+Then user Click On The Login Button And It Navigates To The Search Hotel Page.undefined
+]]></skipped>
+    </testcase>
+    <testcase classname="Hotel Booking In Adactin Application" name="" time="0">
+        <skipped><![CDATA[When user Select The Location In Location Field.............................undefined
+And user Select The Hotel In Hotel Field....................................undefined
+And user Select The Room Type In RoomType Field.............................undefined
+And user Select The No. Of Rooms In Room Field..............................undefined
+And user Enters The Date In check In Date Field.............................undefined
+And user Enters The Date In check Out Date Field............................undefined
+And user Select Adults per Room In Adults per Room Field....................undefined
+And user Select Children Per Room In Children per Room Field................undefined
+Then user Click On The Search Button And It Navigates To The Select Hotel Page.undefined
+]]></skipped>
+    </testcase>
+    <testcase classname="Hotel Booking In Adactin Application" name="" time="0">
+        <skipped><![CDATA[When user Click The Radio Button To Select The Hotel........................undefined
+Then user Click On The Continue Button And It Navigates To The Booking Page.undefined
+]]></skipped>
+    </testcase>
+    <testcase classname="Hotel Booking In Adactin Application" name="" time="0">
+        <skipped><![CDATA[When user Enter The Firstname In Firstname Field............................undefined
+And user Enter The Lastname In Lastname Field...............................undefined
+And user Enter The Address In Billing Address Field.........................undefined
+And user Enter The Credit Card No. In Credit Card No. Field.................undefined
+And user Select The Credit Card Type In Credit Card Type Field..............undefined
+And user Select The Month In Expiry Date Field..............................undefined
+And user Select The Year In Expiry Date Field...............................undefined
+And user Enter The Cvv No. In Cvv Field.....................................undefined
+Then user Click On The Book Now Button And It Navigates To The Booking Confirmation Page.undefined
+]]></skipped>
+    </testcase>
+    <testcase classname="Hotel Booking In Adactin Application" name="" time="0">
+        <skipped><![CDATA[Then user Click On The My Itinerary Button And It Navigates To The Book Itinerary Page.undefined
+]]></skipped>
+    </testcase>
+    <testcase classname="Hotel Booking In Adactin Application" name="" time="0">
+        <skipped><![CDATA[Then user Click On The Logout Button And It Navigates To The Logout Page....undefined
+]]></skipped>
+    </testcase>
+</testsuite>
